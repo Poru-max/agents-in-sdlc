@@ -17,7 +17,7 @@ lastUpdated: 2026-09-28
 
 ### [GitHub Copilot app 둘러보기][copilot-app]
 
-빈 폴더에서 다채로운 Space Quiz를 만들고 개발 사이클을 진행합니다. 생성, 개선, 테스트, 프로젝트 지침 작성, 게시, 작업 계획, 이슈 구현, 풀 리퀘스트(Pull request) 검토 및 병합, 반복 작업 자동화, Canvas 확장 탐색을 수행합니다.
+빈 폴더에서 다채로운 Space Quiz를 만들고 개발 사이클을 진행합니다. 생성, 개선, 테스트, 프로젝트 지침 작성, 게시, 작업 계획, 이슈 구현, 풀 리퀘스트(Pull request) 검토 및 병합, 반복 작업 자동화, Canvas 확장 탐색, GitHub Pages를 사용한 사이트 배포를 수행합니다.
 
 ### [GitHub Copilot CLI 첫걸음][copilot-cli]
 
